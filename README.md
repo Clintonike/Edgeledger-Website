@@ -1,2 +1,2 @@
  # Edgeledger-Website
-## view live site here: https://edgeledger-websiteorg.netlify.app/
+[Live site on Netlify](https://edgeledger-websiteorg.netlify.app/)
